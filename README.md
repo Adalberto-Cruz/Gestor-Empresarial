@@ -1,4 +1,4 @@
-# B2B AI Onboarding & Credit Analysis (Checkpoint 1)
+# B2B AI Onboarding & Credit Analysis 
 
 ## Nome do Projeto
 AutoCred B2B - Agentes de IA para Onboarding e Crédito
