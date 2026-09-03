@@ -17,9 +17,11 @@ Um sistema onde o cliente envia seus documentos e uma esteira de Agentes de IA e
 4. **Agente Decisor:** Emite o parecer e aprova o limite.
 
 ## Integrantes
-- [SEU NOME AQUI] (RM: [SEU RM])
-- [NOME DO INTEGRANTE 2] (RM: [RM 2])
-- [NOME DO INTEGRANTE 3] (RM: [RM 3])
+- Adalberto Alves Cruz             | RM: 574115
+- Bruno Henrique Ferreira Ambrosio | RM: 571218
+- Gustavo da Silva Nascimento      | RM: 570821
+- Lucas Maximo dos Santos          | RM: 569714
+- Tiago Thomaz Cesaro              | RM: 569374
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Python 3.10+
