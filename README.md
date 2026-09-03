@@ -1,4 +1,4 @@
-# B2B AI Onboarding & Credit Analysis (Checkpoint 1)
+# B2B AI Onboarding & Credit Analysis 
 
 ## Nome do Projeto
 AutoCred B2B - Agentes de IA para Onboarding e Crédito
@@ -17,9 +17,11 @@ Um sistema onde o cliente envia seus documentos e uma esteira de Agentes de IA e
 4. **Agente Decisor:** Emite o parecer e aprova o limite.
 
 ## Integrantes
-- [SEU NOME AQUI] (RM: [SEU RM])
-- [NOME DO INTEGRANTE 2] (RM: [RM 2])
-- [NOME DO INTEGRANTE 3] (RM: [RM 3])
+- Adalberto Alves Cruz              | RM: 574115
+- Bruno Henrique Ferreira Ambrosio | RM: 571218
+- Gustavo da Silva Nascimento      | RM: 570821
+- Lucas Maximo dos Santos          | RM: 569714
+- Tiago Thomaz Cesaro              | RM: 569374
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Python 3.10+
@@ -50,20 +52,3 @@ Para este Checkpoint 1, o banco de dados utilizado é o SQLite, portanto, nenhum
 Execute o servidor uvicorn:
 ```bash
 uvicorn app.main:app --reload
-```
-A API estará rodando em `http://127.0.0.1:8000`
-
-## Banco de Dados Utilizado
-- **SQLite3** (Para o Checkpoint 1, focado em prototipagem e validação da arquitetura).
-
-## Principais Endpoints
-- `POST /api/v1/empresas/` - Cadastra uma nova empresa no sistema.
-- `GET /api/v1/empresas/` - Lista as empresas cadastradas.
-- `POST /api/v1/onboarding/` - Inicia um novo processo de onboarding/análise de crédito.
-- `PUT /api/v1/onboarding/{id}` - Atualiza o status/score do processo (será usado pela IA futuramente).
-
-## Link para Documentação Swagger
-Com a API rodando, acesse: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
-## Organização do Projeto
-- **Link do Trello:** [COLE SEU LINK AQUI]
