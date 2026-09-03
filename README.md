@@ -68,4 +68,4 @@ A API estará rodando em `http://127.0.0.1:8000`
 Com a API rodando, acesse: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ## Organização do Projeto
-- **Link do Trello:** [COLE SEU LINK AQUI]
+- **Link do Trello:** [(https://trello.com/b/vJLowf7X/gestor-empresarial)]
